@@ -1,8 +1,8 @@
-# Libasm
+# 👻 Libasm
 
-A small Library written in Assembly x64 👻
+A small Library written in x86_64 assembly
 
-### Prerequisites
+### 📋 Prerequisites
 
 Install these
 * nasm
@@ -10,7 +10,7 @@ Install these
 	brew install nasm
   ```
 
-## Usage
+## ⚙️ Usage
 
 Include the header in your c file and compile with the library and you should be good to go!
 ```
